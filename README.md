@@ -3,6 +3,9 @@ chrome extension to block annoying login popup in geeksforgeeks website
 
 
 # Installation
+
+#### Download the repo as zip, then unzip to a particular location.
+
 1. Open the Extension Management page by navigating to chrome://extensions.
   * Alternatively, open this page by clicking on the Extensions menu button and selecting Manage Extensions at the bottom of the menu.
   * Alternatively, open this page by clicking on the Chrome menu, hovering over More Tools then selecting Extensions
